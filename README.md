@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello there 👩‍💻
 
 <!--
 **paulovictorralmeida/paulovictorralmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p>Me chamo Paulo Victor, tenho 23 anos e atualmente moro em Goiânia, Brasil. Apaixonado por jogos e desenvolvimento web.</p>
+
+<ul>
+  <li>Cursando Ciência da Computação na Universidade Federal de Goiás.</li>
+  <li>Atualmente desenvolvo projetos pessoais de front-end.</li>
+</ul>  
+  
