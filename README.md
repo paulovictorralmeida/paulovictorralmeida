@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>Me chamo Paulo Victor, tenho 23 anos e atualmente moro em Goiânia, Brasil. Apaixonado por jogos e desenvolvimento web.</p>
+<p>Me chamo Paulo Victor, tenho 24 anos e atualmente moro em Goiânia, Brasil. Apaixonado por jogos e desenvolvimento web.</p>
 
 <ul>
   <li>Cursando Ciência da Computação na Universidade Federal de Goiás.</li>
