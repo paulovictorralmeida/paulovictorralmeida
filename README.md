@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p>Me chamo Paulo Victor, tenho 26 anos e atualmente moro em Goiânia, Brasil.</p>
 
 <ul>
-  <li>Cursando Ciência da Computação na Universidade Federal de Goiás.</li>
-  <li>Atualmente desenvolvo projetos pessoais de front-end.</li>
+  <li>Bacharel em Ciência da Computação pela Universidade Federal de Goiás.</li>
+  <li>Atualmente trabalho como desenvolvedor frontend no LabTIME e desenvolvo projetos pessoais.</li>
 </ul>  
  
